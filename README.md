@@ -1,6 +1,6 @@
 # Asipsi - Proiect securizare unei sali prin amprenta
 
-Soluție software si hardware pentru securizarea unei sali.
+Implementarea unui sistem avansat de control al accesului pe baza unui abonament.
 
 ## Continut
 
