@@ -4,10 +4,10 @@ Implementarea unui sistem avansat de control al accesului pe baza unui abonament
 
 ## Continut
 
-- [SRS - Documentul de specificare a cerințelor](SRS%20Rahme%20Victor.docx)
-- [Documentul de specificatii tehnice](Specificatii%20tehnice%20Rahme%20Victor.docx)
+- [SRS - Documentul de specificare a cerințelor](lelo.docx)
+- [Documentul de specificatii tehnice](lelo%202.docx)
 - [Prezentare proiect](ASIPSI%20Rahme%20Victor.pptx)
-- [Board Jira](https://victorrahme.atlassian.net/jira/software/projects/SCRUM/boards/1)
+- [Board Jira](https://laurentiuciobanu.atlassian.net/jira/software/projects/AM/list)
 
 ## Despre
 
